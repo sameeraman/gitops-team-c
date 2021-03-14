@@ -11,7 +11,7 @@ metadata:
   name: team-c-app
   namespace: team-c
 spec:
-  replicas: 3
+  replicas: 5
   selector:
     matchLabels:
       app: team-c-app
